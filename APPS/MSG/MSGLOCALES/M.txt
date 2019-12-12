@@ -1,0 +1,5 @@
+M:3
+NAME:IGTMSG
+CurrentBeta:6006
+Current:5000
+

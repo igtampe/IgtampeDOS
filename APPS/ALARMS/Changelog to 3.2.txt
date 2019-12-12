@@ -1,0 +1,9 @@
+3.2 "Alarms FINALLY WORKS and is EASY"
+
+
+-Switched to the new SOUNDPLAY API. Sounds now do not require a Pop-up
+ and are played much MUCH faster.
+-Fixed Bugs:
+	-Fixed Bug with Alarm Time Writing that made finding the time
+	 Impossible.
+	-Fixed bug that made Alarm 7 not function properly.

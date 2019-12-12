@@ -1,0 +1,3 @@
+NAME:IGTMSG
+URL:http://igtdos.yolasite.com/resources/msg
+URLM:https://dl.dropboxusercontent.com/s/x23nw6zm1ie85dv/M.txt?dl=0
